@@ -533,12 +533,14 @@ class MarkerChartCanvasImpl extends React.PureComponent<Props> {
     } = this.props;
 
     const usefulContainerWidth = containerWidth - marginRight;
+    let separatorWidth = 0;
 
     // Draw separators
     ctx.fillStyle = GREY_20;
     if (timelineTrackOrganization.type !== 'active-tab') {
+      separatorWidth = 1;
       // Don't draw the separator on the right side if we are in the active tab.
-      ctx.fillRect(marginLeft - 1, 0, 1, containerHeight);
+      ctx.fillRect(marginLeft - 1, 0, separatorWidth, containerHeight);
     }
     for (let rowIndex = startRow; rowIndex < endRow; rowIndex++) {
       // `- 1` at the end, because the top separator is not drawn in the canvas,
@@ -566,7 +568,7 @@ class MarkerChartCanvasImpl extends React.PureComponent<Props> {
       // Even though it's on active tab view, have a hard cap on the text length.
       const fittedText = textMeasurement.getFittedText(
         name,
-        TIMELINE_MARGIN_LEFT
+        TIMELINE_MARGIN_LEFT - LABEL_PADDING - separatorWidth
       );
 
       if (timelineTrackOrganization.type === 'active-tab') {

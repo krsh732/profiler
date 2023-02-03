@@ -515,11 +515,391 @@ Array [
   ],
   Array [
     "measureText",
-    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.()< /:-_",
+    "…",
   ],
   Array [
     "measureText",
-    "…",
+    " ",
+  ],
+  Array [
+    "measureText",
+    "!",
+  ],
+  Array [
+    "measureText",
+    "\\"",
+  ],
+  Array [
+    "measureText",
+    "#",
+  ],
+  Array [
+    "measureText",
+    "$",
+  ],
+  Array [
+    "measureText",
+    "%",
+  ],
+  Array [
+    "measureText",
+    "&",
+  ],
+  Array [
+    "measureText",
+    "'",
+  ],
+  Array [
+    "measureText",
+    "(",
+  ],
+  Array [
+    "measureText",
+    ")",
+  ],
+  Array [
+    "measureText",
+    "*",
+  ],
+  Array [
+    "measureText",
+    "+",
+  ],
+  Array [
+    "measureText",
+    ",",
+  ],
+  Array [
+    "measureText",
+    "-",
+  ],
+  Array [
+    "measureText",
+    ".",
+  ],
+  Array [
+    "measureText",
+    "/",
+  ],
+  Array [
+    "measureText",
+    "0",
+  ],
+  Array [
+    "measureText",
+    "1",
+  ],
+  Array [
+    "measureText",
+    "2",
+  ],
+  Array [
+    "measureText",
+    "3",
+  ],
+  Array [
+    "measureText",
+    "4",
+  ],
+  Array [
+    "measureText",
+    "5",
+  ],
+  Array [
+    "measureText",
+    "6",
+  ],
+  Array [
+    "measureText",
+    "7",
+  ],
+  Array [
+    "measureText",
+    "8",
+  ],
+  Array [
+    "measureText",
+    "9",
+  ],
+  Array [
+    "measureText",
+    ":",
+  ],
+  Array [
+    "measureText",
+    ";",
+  ],
+  Array [
+    "measureText",
+    "<",
+  ],
+  Array [
+    "measureText",
+    "=",
+  ],
+  Array [
+    "measureText",
+    ">",
+  ],
+  Array [
+    "measureText",
+    "?",
+  ],
+  Array [
+    "measureText",
+    "@",
+  ],
+  Array [
+    "measureText",
+    "A",
+  ],
+  Array [
+    "measureText",
+    "B",
+  ],
+  Array [
+    "measureText",
+    "C",
+  ],
+  Array [
+    "measureText",
+    "D",
+  ],
+  Array [
+    "measureText",
+    "E",
+  ],
+  Array [
+    "measureText",
+    "F",
+  ],
+  Array [
+    "measureText",
+    "G",
+  ],
+  Array [
+    "measureText",
+    "H",
+  ],
+  Array [
+    "measureText",
+    "I",
+  ],
+  Array [
+    "measureText",
+    "J",
+  ],
+  Array [
+    "measureText",
+    "K",
+  ],
+  Array [
+    "measureText",
+    "L",
+  ],
+  Array [
+    "measureText",
+    "M",
+  ],
+  Array [
+    "measureText",
+    "N",
+  ],
+  Array [
+    "measureText",
+    "O",
+  ],
+  Array [
+    "measureText",
+    "P",
+  ],
+  Array [
+    "measureText",
+    "Q",
+  ],
+  Array [
+    "measureText",
+    "R",
+  ],
+  Array [
+    "measureText",
+    "S",
+  ],
+  Array [
+    "measureText",
+    "T",
+  ],
+  Array [
+    "measureText",
+    "U",
+  ],
+  Array [
+    "measureText",
+    "V",
+  ],
+  Array [
+    "measureText",
+    "W",
+  ],
+  Array [
+    "measureText",
+    "X",
+  ],
+  Array [
+    "measureText",
+    "Y",
+  ],
+  Array [
+    "measureText",
+    "Z",
+  ],
+  Array [
+    "measureText",
+    "[",
+  ],
+  Array [
+    "measureText",
+    "\\\\",
+  ],
+  Array [
+    "measureText",
+    "]",
+  ],
+  Array [
+    "measureText",
+    "^",
+  ],
+  Array [
+    "measureText",
+    "_",
+  ],
+  Array [
+    "measureText",
+    "\`",
+  ],
+  Array [
+    "measureText",
+    "a",
+  ],
+  Array [
+    "measureText",
+    "b",
+  ],
+  Array [
+    "measureText",
+    "c",
+  ],
+  Array [
+    "measureText",
+    "d",
+  ],
+  Array [
+    "measureText",
+    "e",
+  ],
+  Array [
+    "measureText",
+    "f",
+  ],
+  Array [
+    "measureText",
+    "g",
+  ],
+  Array [
+    "measureText",
+    "h",
+  ],
+  Array [
+    "measureText",
+    "i",
+  ],
+  Array [
+    "measureText",
+    "j",
+  ],
+  Array [
+    "measureText",
+    "k",
+  ],
+  Array [
+    "measureText",
+    "l",
+  ],
+  Array [
+    "measureText",
+    "m",
+  ],
+  Array [
+    "measureText",
+    "n",
+  ],
+  Array [
+    "measureText",
+    "o",
+  ],
+  Array [
+    "measureText",
+    "p",
+  ],
+  Array [
+    "measureText",
+    "q",
+  ],
+  Array [
+    "measureText",
+    "r",
+  ],
+  Array [
+    "measureText",
+    "s",
+  ],
+  Array [
+    "measureText",
+    "t",
+  ],
+  Array [
+    "measureText",
+    "u",
+  ],
+  Array [
+    "measureText",
+    "v",
+  ],
+  Array [
+    "measureText",
+    "w",
+  ],
+  Array [
+    "measureText",
+    "x",
+  ],
+  Array [
+    "measureText",
+    "y",
+  ],
+  Array [
+    "measureText",
+    "z",
+  ],
+  Array [
+    "measureText",
+    "{",
+  ],
+  Array [
+    "measureText",
+    "|",
+  ],
+  Array [
+    "measureText",
+    "}",
+  ],
+  Array [
+    "measureText",
+    "~",
+  ],
+  Array [
+    "measureText",
+    "",
   ],
   Array [
     "set fillStyle",
@@ -928,8 +1308,12 @@ Array [
     "Non-interval marker F without data",
   ],
   Array [
+    "measureText",
+    "Non-interval marker F witho…",
+  ],
+  Array [
     "fillText",
-    "Non-interval marker F withou…",
+    "Non-interval marker F witho…",
     5,
     123,
   ],
@@ -948,8 +1332,12 @@ Array [
     "Very very very very very very Very very very very very very Very very very very very very Very very very very very very Very very very very very very long Marker D",
   ],
   Array [
+    "measureText",
+    "Very very very very very ve…",
+  ],
+  Array [
     "fillText",
-    "Very very very very very ver…",
+    "Very very very very very ve…",
     5,
     155,
   ],
@@ -1398,11 +1786,391 @@ Array [
   ],
   Array [
     "measureText",
-    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.()< /:-_",
+    "…",
   ],
   Array [
     "measureText",
-    "…",
+    " ",
+  ],
+  Array [
+    "measureText",
+    "!",
+  ],
+  Array [
+    "measureText",
+    "\\"",
+  ],
+  Array [
+    "measureText",
+    "#",
+  ],
+  Array [
+    "measureText",
+    "$",
+  ],
+  Array [
+    "measureText",
+    "%",
+  ],
+  Array [
+    "measureText",
+    "&",
+  ],
+  Array [
+    "measureText",
+    "'",
+  ],
+  Array [
+    "measureText",
+    "(",
+  ],
+  Array [
+    "measureText",
+    ")",
+  ],
+  Array [
+    "measureText",
+    "*",
+  ],
+  Array [
+    "measureText",
+    "+",
+  ],
+  Array [
+    "measureText",
+    ",",
+  ],
+  Array [
+    "measureText",
+    "-",
+  ],
+  Array [
+    "measureText",
+    ".",
+  ],
+  Array [
+    "measureText",
+    "/",
+  ],
+  Array [
+    "measureText",
+    "0",
+  ],
+  Array [
+    "measureText",
+    "1",
+  ],
+  Array [
+    "measureText",
+    "2",
+  ],
+  Array [
+    "measureText",
+    "3",
+  ],
+  Array [
+    "measureText",
+    "4",
+  ],
+  Array [
+    "measureText",
+    "5",
+  ],
+  Array [
+    "measureText",
+    "6",
+  ],
+  Array [
+    "measureText",
+    "7",
+  ],
+  Array [
+    "measureText",
+    "8",
+  ],
+  Array [
+    "measureText",
+    "9",
+  ],
+  Array [
+    "measureText",
+    ":",
+  ],
+  Array [
+    "measureText",
+    ";",
+  ],
+  Array [
+    "measureText",
+    "<",
+  ],
+  Array [
+    "measureText",
+    "=",
+  ],
+  Array [
+    "measureText",
+    ">",
+  ],
+  Array [
+    "measureText",
+    "?",
+  ],
+  Array [
+    "measureText",
+    "@",
+  ],
+  Array [
+    "measureText",
+    "A",
+  ],
+  Array [
+    "measureText",
+    "B",
+  ],
+  Array [
+    "measureText",
+    "C",
+  ],
+  Array [
+    "measureText",
+    "D",
+  ],
+  Array [
+    "measureText",
+    "E",
+  ],
+  Array [
+    "measureText",
+    "F",
+  ],
+  Array [
+    "measureText",
+    "G",
+  ],
+  Array [
+    "measureText",
+    "H",
+  ],
+  Array [
+    "measureText",
+    "I",
+  ],
+  Array [
+    "measureText",
+    "J",
+  ],
+  Array [
+    "measureText",
+    "K",
+  ],
+  Array [
+    "measureText",
+    "L",
+  ],
+  Array [
+    "measureText",
+    "M",
+  ],
+  Array [
+    "measureText",
+    "N",
+  ],
+  Array [
+    "measureText",
+    "O",
+  ],
+  Array [
+    "measureText",
+    "P",
+  ],
+  Array [
+    "measureText",
+    "Q",
+  ],
+  Array [
+    "measureText",
+    "R",
+  ],
+  Array [
+    "measureText",
+    "S",
+  ],
+  Array [
+    "measureText",
+    "T",
+  ],
+  Array [
+    "measureText",
+    "U",
+  ],
+  Array [
+    "measureText",
+    "V",
+  ],
+  Array [
+    "measureText",
+    "W",
+  ],
+  Array [
+    "measureText",
+    "X",
+  ],
+  Array [
+    "measureText",
+    "Y",
+  ],
+  Array [
+    "measureText",
+    "Z",
+  ],
+  Array [
+    "measureText",
+    "[",
+  ],
+  Array [
+    "measureText",
+    "\\\\",
+  ],
+  Array [
+    "measureText",
+    "]",
+  ],
+  Array [
+    "measureText",
+    "^",
+  ],
+  Array [
+    "measureText",
+    "_",
+  ],
+  Array [
+    "measureText",
+    "\`",
+  ],
+  Array [
+    "measureText",
+    "a",
+  ],
+  Array [
+    "measureText",
+    "b",
+  ],
+  Array [
+    "measureText",
+    "c",
+  ],
+  Array [
+    "measureText",
+    "d",
+  ],
+  Array [
+    "measureText",
+    "e",
+  ],
+  Array [
+    "measureText",
+    "f",
+  ],
+  Array [
+    "measureText",
+    "g",
+  ],
+  Array [
+    "measureText",
+    "h",
+  ],
+  Array [
+    "measureText",
+    "i",
+  ],
+  Array [
+    "measureText",
+    "j",
+  ],
+  Array [
+    "measureText",
+    "k",
+  ],
+  Array [
+    "measureText",
+    "l",
+  ],
+  Array [
+    "measureText",
+    "m",
+  ],
+  Array [
+    "measureText",
+    "n",
+  ],
+  Array [
+    "measureText",
+    "o",
+  ],
+  Array [
+    "measureText",
+    "p",
+  ],
+  Array [
+    "measureText",
+    "q",
+  ],
+  Array [
+    "measureText",
+    "r",
+  ],
+  Array [
+    "measureText",
+    "s",
+  ],
+  Array [
+    "measureText",
+    "t",
+  ],
+  Array [
+    "measureText",
+    "u",
+  ],
+  Array [
+    "measureText",
+    "v",
+  ],
+  Array [
+    "measureText",
+    "w",
+  ],
+  Array [
+    "measureText",
+    "x",
+  ],
+  Array [
+    "measureText",
+    "y",
+  ],
+  Array [
+    "measureText",
+    "z",
+  ],
+  Array [
+    "measureText",
+    "{",
+  ],
+  Array [
+    "measureText",
+    "|",
+  ],
+  Array [
+    "measureText",
+    "}",
+  ],
+  Array [
+    "measureText",
+    "~",
+  ],
+  Array [
+    "measureText",
+    "",
   ],
   Array [
     "set fillStyle",
